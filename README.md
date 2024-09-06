@@ -1,2 +1,2 @@
 # terraform-repo-vars
-Terraform Workspace
+Terraform Module
